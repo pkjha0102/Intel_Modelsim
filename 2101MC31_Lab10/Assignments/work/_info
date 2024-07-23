@@ -1,0 +1,521 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/SOFTWARES/ModeSim/Projects
+vand_gate
+Z0 !s110 1667283532
+!i10b 1
+!s100 bKkHljX0nF>Lki_:NIlLE0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IoPVUO8_Q=PkQTj^jA[o[e1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10
+w1667279157
+8D:/SOFTWARES/ModeSim/Projects/or_gate.v
+FD:/SOFTWARES/ModeSim/Projects/or_gate.v
+!i122 14
+Z4 L0 1 5
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1667283532.000000
+!s107 D:/SOFTWARES/ModeSim/Projects/or_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/SOFTWARES/ModeSim/Projects/or_gate.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+vfull_adder
+Z9 !s110 1667483797
+!i10b 1
+!s100 5X@doU2Q:Q;@][cZEfOVB2
+R1
+I?IIWFFMiN`i[=D5S]Uk=S1
+R2
+Z10 dD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments
+Z11 w1667325608
+Z12 8D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/Task_2_full_adder.v
+Z13 FD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/Task_2_full_adder.v
+!i122 186
+L0 1 9
+R5
+r1
+!s85 0
+31
+Z14 !s108 1667483797.000000
+Z15 !s107 D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/Task_2_full_adder.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/Task_2_full_adder.v|
+!i113 1
+R7
+R8
+vfunction_f
+R9
+!i10b 1
+!s100 2;lmHOk4XfI09aF1oCk?Y1
+R1
+IogDl]Nh:4]`cY7k5Ec]2<3
+R2
+R10
+w1667280637
+8D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/Task_3(a).v
+FD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/Task_3(a).v
+!i122 178
+Z17 L0 1 6
+R5
+r1
+!s85 0
+31
+R14
+!s107 D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/Task_3(a).v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/Task_3(a).v|
+!i113 1
+R7
+R8
+vfunction_g
+R9
+!i10b 1
+!s100 P<z<z3DHSRHEiknlo4LC`3
+R1
+IMe4Q^SKh8D3Rj]NXQj5i>2
+R2
+R10
+w1667284480
+8D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/Task_3(b).v
+FD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/Task_3(b).v
+!i122 179
+R17
+R5
+r1
+!s85 0
+31
+R14
+!s107 D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/Task_3(b).v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/Task_3(b).v|
+!i113 1
+R7
+R8
+vfunction_h
+R9
+!i10b 1
+!s100 =b<EBCCF6`PC8<?DaG61D0
+R1
+IjXaoENCEKl9ZXf>]P3=XL2
+R2
+R10
+w1667281108
+8D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/Task_3(c).v
+FD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/Task_3(c).v
+!i122 180
+R17
+R5
+r1
+!s85 0
+31
+R14
+!s107 D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/Task_3(c).v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/Task_3(c).v|
+!i113 1
+R7
+R8
+vhalf_adder
+R9
+!i10b 1
+!s100 i@X31GbmH8GnZcLe]Cd=02
+R1
+INcG5a;LnYczB4i9?IiIa`3
+R2
+R10
+R11
+R12
+R13
+!i122 186
+L0 12 7
+R5
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R7
+R8
+vmux_behav
+R0
+!i10b 1
+!s100 565ig4I0gG1SPe5JRA5jW1
+R1
+I3;ma[<nz;]nA<B;AA<JD:1
+R2
+R3
+w1287572310
+8D:/SOFTWARES/ModeSim/Projects/mux_behav.v
+FD:/SOFTWARES/ModeSim/Projects/mux_behav.v
+!i122 11
+L0 1 13
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/SOFTWARES/ModeSim/Projects/mux_behav.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/SOFTWARES/ModeSim/Projects/mux_behav.v|
+!i113 1
+R7
+R8
+vmux_behav2
+R0
+!i10b 1
+!s100 gReBa]CGW62S2igNMLE@O0
+R1
+IDhXL:4V3DQoLXh0<C2V9f1
+R2
+R3
+w1456480982
+8D:/SOFTWARES/ModeSim/Projects/mux_behav2.v
+FD:/SOFTWARES/ModeSim/Projects/mux_behav2.v
+!i122 12
+R17
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/SOFTWARES/ModeSim/Projects/mux_behav2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/SOFTWARES/ModeSim/Projects/mux_behav2.v|
+!i113 1
+R7
+R8
+vmux_struct
+R0
+!i10b 1
+!s100 Rjn]kh7moAz4:X4Mg3T2a2
+R1
+IgZH7L4foCoQ]X2RNlNaDA0
+R2
+R3
+w1456480850
+8D:/SOFTWARES/ModeSim/Projects/mux_struct.v
+FD:/SOFTWARES/ModeSim/Projects/mux_struct.v
+!i122 13
+L0 2 10
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/SOFTWARES/ModeSim/Projects/mux_struct.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/SOFTWARES/ModeSim/Projects/mux_struct.v|
+!i113 1
+R7
+R8
+vtask_1
+R9
+!i10b 1
+!s100 AH:MLkHP<1[SPYk]=V5_H0
+R1
+I<D>=0]kc4@khD`8]nZFmK3
+R2
+R10
+w1667324342
+8D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/Task_1.v
+FD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/Task_1.v
+!i122 184
+L0 1 16
+R5
+r1
+!s85 0
+31
+R14
+!s107 D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/Task_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/Task_1.v|
+!i113 1
+R7
+R8
+vtb_and_gate
+!s110 1667286971
+!i10b 1
+!s100 X^_LQzcV9Q[R69F2670IF3
+R1
+I^b2HfOY9R5gJLzh@jF?ZR0
+R2
+R10
+w1667281052
+8D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_task_3(a).v
+FD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_task_3(a).v
+!i122 47
+L0 1 25
+R5
+r1
+!s85 0
+31
+!s108 1667286971.000000
+!s107 D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_task_3(a).v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_task_3(a).v|
+!i113 1
+R7
+R8
+vtb_full_adder
+R9
+!i10b 1
+!s100 ]lnIfMcdo=CH6aV0fZg7R3
+R1
+Ihic_V7[RZA38fzXfonZ`h1
+R2
+R10
+w1667326212
+8D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_task_2_full_adder.v
+FD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_task_2_full_adder.v
+!i122 187
+L0 1 21
+R5
+r1
+!s85 0
+31
+R14
+!s107 D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_task_2_full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_task_2_full_adder.v|
+!i113 1
+R7
+R8
+vtb_mux_behav
+R0
+!i10b 1
+!s100 kGn27`RZEBK<mEOVXn`dz1
+R1
+IMC6]]18=bKI17]HIjJ:lN0
+R2
+R3
+w1287640578
+8D:/SOFTWARES/ModeSim/Projects/tb_mux_behav.v
+FD:/SOFTWARES/ModeSim/Projects/tb_mux_behav.v
+!i122 15
+L0 1 52
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/SOFTWARES/ModeSim/Projects/tb_mux_behav.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/SOFTWARES/ModeSim/Projects/tb_mux_behav.v|
+!i113 1
+R7
+R8
+vtb_task_1
+R9
+!i10b 1
+!s100 O@_6fe4<;l<eF:?m8ja@G0
+R1
+IS8RmEEMTKflHTD9_0m]VP1
+R2
+R10
+w1667369528
+8D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_task_1.v
+FD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_task_1.v
+!i122 185
+L0 1 31
+R5
+r1
+!s85 0
+31
+R14
+!s107 D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_task_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_task_1.v|
+!i113 1
+R7
+R8
+vtb_task_3
+!s110 1667284710
+!i10b 1
+!s100 X5MU2CL5e`RYo`324HLj`0
+R1
+IX6MTo5z@VKOZ3Rf2G4nKz0
+R2
+R3
+w1667284558
+8D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/tb_task_3.v
+FD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/tb_task_3.v
+!i122 35
+Z18 L0 1 45
+R5
+r1
+!s85 0
+31
+!s108 1667284710.000000
+!s107 D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/tb_task_3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/tb_task_3.v|
+!i113 1
+R7
+R8
+vtb_task_3_a
+R9
+!i10b 1
+!s100 ;DHlkjYigdW56z=5Fa?IM2
+R1
+IT7oSln2LT1C8=iT?N60DM1
+R2
+R10
+w1667284885
+8D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_task_3_a.v
+FD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_task_3_a.v
+!i122 181
+R18
+R5
+r1
+!s85 0
+31
+R14
+!s107 D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_task_3_a.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_task_3_a.v|
+!i113 1
+R7
+R8
+vtb_task_3_b
+R9
+!i10b 1
+!s100 EMkfgFI9ezk@jRJ7`9cM_3
+R1
+IeEQ1Z:IAJKm5RBS4YNG]l0
+R2
+R10
+w1667284777
+8D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_task_3_b.v
+FD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_task_3_b.v
+!i122 182
+R18
+R5
+r1
+!s85 0
+31
+R14
+!s107 D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_task_3_b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_task_3_b.v|
+!i113 1
+R7
+R8
+vtb_task_3_c
+R9
+!i10b 1
+!s100 XlG;i<ZQ@29b4T<=0eOaB2
+R1
+I3P6:jHi^67QYK0AK:?9<=0
+R2
+R10
+w1667370011
+8D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_Task_3.v
+FD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_Task_3.v
+!i122 188
+L0 1 47
+R5
+r1
+!s85 0
+31
+R14
+!s107 D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_Task_3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_Task_3.v|
+!i113 1
+R7
+R8
+vtb_three_input_AND
+!s110 1667283669
+!i10b 1
+!s100 L`=4nBGhHl9NXONejTmde3
+R1
+Ib`FDOFoz=nIiKzP;dCVfe2
+R2
+R3
+w1667283662
+8D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/tb_three_input_AND.v
+FD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/tb_three_input_AND.v
+!i122 18
+R18
+R5
+r1
+!s85 0
+31
+!s108 1667283669.000000
+!s107 D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/tb_three_input_AND.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/tb_three_input_AND.v|
+!i113 1
+R7
+R8
+ntb_three_input_@a@n@d
+vtb_three_input_OR
+!s110 1667284017
+!i10b 1
+!s100 OJYa<DkE2hONkezNJOWTN0
+R1
+IEf=@19D16HDofYc9XnEeb0
+R2
+R3
+w1667283928
+8D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/tb_three_input_OR.v
+FD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/tb_three_input_OR.v
+!i122 20
+L0 2 45
+R5
+r1
+!s85 0
+31
+!s108 1667284017.000000
+!s107 D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/tb_three_input_OR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/tb_three_input_OR.v|
+!i113 1
+R7
+R8
+ntb_three_input_@o@r
+vthree_input_AND
+R0
+!i10b 1
+!s100 T]827SeK8bomVNaL?XTSO0
+R1
+ITS1@W;lm[Sml:324OdX5z2
+R2
+R3
+w1667283494
+8D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/three_input_AND.v
+FD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/three_input_AND.v
+!i122 17
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/three_input_AND.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/three_input_AND.v|
+!i113 1
+R7
+R8
+nthree_input_@a@n@d
+vthree_input_OR
+!s110 1667284074
+!i10b 1
+!s100 h?_?DdUVm3PKQ@1T3:INd1
+R1
+IhJ=d47YSc0GLfA1z1Y9GH1
+R2
+R3
+w1667284038
+8D:\PK\IIT PATNA\SEM_03\CS227_Digital_Systems\2101MC31_Lab10\three_input_OR.v
+FD:\PK\IIT PATNA\SEM_03\CS227_Digital_Systems\2101MC31_Lab10\three_input_OR.v
+!i122 21
+R4
+R5
+r1
+!s85 0
+31
+!s108 1667284074.000000
+!s107 D:\PK\IIT PATNA\SEM_03\CS227_Digital_Systems\2101MC31_Lab10\three_input_OR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\PK\IIT PATNA\SEM_03\CS227_Digital_Systems\2101MC31_Lab10\three_input_OR.v|
+!i113 1
+R7
+R8
+nthree_input_@o@r

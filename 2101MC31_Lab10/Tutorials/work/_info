@@ -1,0 +1,245 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/SOFTWARES/ModeSim
+vand_gate
+Z0 !s110 1667288247
+!i10b 1
+!s100 bKkHljX0nF>Lki_:NIlLE0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I]JLQ[XzjOfYMdKSEA5eQ_3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials
+w1667279157
+8D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/or_gate.v
+FD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/or_gate.v
+!i122 41
+Z4 L0 1 5
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1667288247.000000
+!s107 D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/or_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/or_gate.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+vmux_behav
+R0
+!i10b 1
+!s100 565ig4I0gG1SPe5JRA5jW1
+R1
+I[;Sc_CeQmiFUOHUFHIa7g3
+R2
+R3
+w1287572310
+8D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/mux_behav.v
+FD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/mux_behav.v
+!i122 38
+L0 1 13
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/mux_behav.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/mux_behav.v|
+!i113 1
+R7
+R8
+vmux_behav2
+R0
+!i10b 1
+!s100 gReBa]CGW62S2igNMLE@O0
+R1
+IMGcaol>fUL@T>:G;@5o3L0
+R2
+R3
+w1456480982
+8D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/mux_behav2.v
+FD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/mux_behav2.v
+!i122 39
+L0 1 6
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/mux_behav2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/mux_behav2.v|
+!i113 1
+R7
+R8
+vmux_struct
+R0
+!i10b 1
+!s100 Rjn]kh7moAz4:X4Mg3T2a2
+R1
+IKN1nQCobXTz1>Ia:RGSNV3
+R2
+R3
+w1456480850
+8D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/mux_struct.v
+FD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/mux_struct.v
+!i122 40
+L0 2 10
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/mux_struct.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/mux_struct.v|
+!i113 1
+R7
+R8
+vtb_and_gate
+Z9 !s110 1667288248
+!i10b 1
+!s100 d2X0KAF8RObmBXnGkO@zH3
+R1
+INbdNJA7lM[j@7XcMDeD_j1
+R2
+R3
+w1667288168
+8D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/tb_or_gate.v
+FD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/tb_or_gate.v
+!i122 44
+L0 1 25
+R5
+r1
+!s85 0
+31
+Z10 !s108 1667288248.000000
+!s107 D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/tb_or_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/tb_or_gate.v|
+!i113 1
+R7
+R8
+vtb_mux_behav
+R9
+!i10b 1
+!s100 kGn27`RZEBK<mEOVXn`dz1
+R1
+IA1TWmf2NR=ioo@PZSXO1<0
+R2
+R3
+w1287640578
+8D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/tb_mux_behav.v
+FD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/tb_mux_behav.v
+!i122 43
+L0 1 52
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/tb_mux_behav.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/tb_mux_behav.v|
+!i113 1
+R7
+R8
+vtb_three_input_AND
+R9
+!i10b 1
+!s100 L`=4nBGhHl9NXONejTmde3
+R1
+IZS9Q=f8@h=AIEORn06:k92
+R2
+R3
+w1667283662
+8D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/tb_three_input_AND.v
+FD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/tb_three_input_AND.v
+!i122 45
+L0 1 45
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/tb_three_input_AND.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/tb_three_input_AND.v|
+!i113 1
+R7
+R8
+ntb_three_input_@a@n@d
+vtb_three_input_OR
+R9
+!i10b 1
+!s100 OJYa<DkE2hONkezNJOWTN0
+R1
+I=@B5ee[Ye5j2^kM2B=JE[1
+R2
+R3
+w1667283928
+8D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/tb_three_input_OR.v
+FD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/tb_three_input_OR.v
+!i122 46
+L0 2 45
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/tb_three_input_OR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/tb_three_input_OR.v|
+!i113 1
+R7
+R8
+ntb_three_input_@o@r
+vthree_input_AND
+R9
+!i10b 1
+!s100 T]827SeK8bomVNaL?XTSO0
+R1
+IDJ5UE[Z81b8D0TBgJmaZ@1
+R2
+R3
+w1667283494
+8D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/three_input_AND.v
+FD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/three_input_AND.v
+!i122 47
+R4
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/three_input_AND.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/three_input_AND.v|
+!i113 1
+R7
+R8
+nthree_input_@a@n@d
+vthree_input_OR
+R9
+!i10b 1
+!s100 h?_?DdUVm3PKQ@1T3:INd1
+R1
+IN<8:KWX7DAACGUBXBfKEO3
+R2
+R3
+w1667284038
+8D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/three_input_OR.v
+FD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/three_input_OR.v
+!i122 48
+R4
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/three_input_OR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Tutorials/three_input_OR.v|
+!i113 1
+R7
+R8
+nthree_input_@o@r

@@ -1,0 +1,80 @@
+{D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/Task_3(c).v} {1 {vlog -work work -stats=none {D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/Task_3(c).v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module function_h
+
+Top level modules:
+	function_h
+
+} {} {}} {D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/Task_2_full_adder.v} {1 {vlog -work work -stats=none {D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/Task_2_full_adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module full_adder
+-- Compiling module half_adder
+
+Top level modules:
+	full_adder
+
+} {} {}} {D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_Task_3.v} {1 {vlog -work work -stats=none {D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_Task_3.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_task_3_c
+
+Top level modules:
+	tb_task_3_c
+
+} {} {}} {D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_task_3_a.v} {1 {vlog -work work -stats=none {D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_task_3_a.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_task_3_a
+
+Top level modules:
+	tb_task_3_a
+
+} {} {}} {D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_task_2_full_adder.v} {2 {vlog -work work -stats=none {D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_task_2_full_adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_full_adder
+** Warning: D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_task_2_full_adder.v(18): (vlog-2643) Unterminated string literal continues onto next line.
+
+Top level modules:
+	tb_full_adder
+
+} {} {}} {D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_task_3_b.v} {1 {vlog -work work -stats=none {D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_task_3_b.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_task_3_b
+
+Top level modules:
+	tb_task_3_b
+
+} {} {}} {D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/Task_3(a).v} {1 {vlog -work work -stats=none {D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/Task_3(a).v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module function_f
+
+Top level modules:
+	function_f
+
+} {} {}} {D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/Task_1.v} {1 {vlog -work work -stats=none {D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/Task_1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module task_1
+
+Top level modules:
+	task_1
+
+} {} {}} {D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_task_3_c.v} {1 {vlog -work work -stats=none {D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_task_3_c.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_task_3_c
+
+Top level modules:
+	tb_task_3_c
+
+} {} {}} {D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/Task_3(b).v} {1 {vlog -work work -stats=none {D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/Task_3(b).v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module function_g
+
+Top level modules:
+	function_g
+
+} {} {}} {D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_task_1.v} {1 {vlog -work work -stats=none {D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab10/Assignments/tb_task_1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_task_1
+
+Top level modules:
+	tb_task_1
+
+} {} {}}

@@ -1,0 +1,159 @@
+$date
+	Wed Nov 02 11:53:51 2022
+$end
+$version
+	ModelSim Version 2020.1
+$end
+$timescale
+	1ps
+$end
+
+$scope module tb_full_adder $end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # c $end
+$var wire 1 $ sum $end
+$var wire 1 % carry $end
+
+$scope module f1 $end
+$var wire 1 & a $end
+$var wire 1 ' b $end
+$var wire 1 ( c $end
+$var wire 1 $ sum $end
+$var wire 1 % carry $end
+$var wire 1 ) sum1 $end
+$var wire 1 * carry1 $end
+$var wire 1 + carry2 $end
+
+$scope module h1 $end
+$var wire 1 & a $end
+$var wire 1 ' b $end
+$var wire 1 ) s $end
+$var wire 1 * c $end
+$upscope $end
+
+$scope module h2 $end
+$var wire 1 ) a $end
+$var wire 1 ( b $end
+$var wire 1 $ s $end
+$var wire 1 + c $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+1!
+1"
+1#
+1$
+1%
+0)
+1*
+0+
+1(
+1'
+1&
+$end
+#1
+0#
+0(
+0$
+#2
+0"
+1#
+0'
+1(
+0*
+1)
+1$
+0%
+1+
+0$
+1%
+#3
+0#
+0(
+0+
+1$
+0%
+#4
+0!
+1"
+1#
+0&
+1'
+1(
+1+
+0$
+1%
+#5
+0#
+0(
+0+
+1$
+0%
+#6
+0"
+1#
+0'
+1(
+0)
+1+
+0$
+0+
+1$
+1%
+0%
+#7
+0#
+0(
+0$
+#8
+1"
+1#
+1'
+1(
+1)
+1$
+1+
+0$
+1%
+#9
+0#
+0(
+0+
+1$
+0%
+#10
+0"
+1#
+0'
+1(
+0)
+1+
+0$
+0+
+1$
+1%
+0%
+#11
+0#
+0(
+0$
+#12
+1"
+1#
+1'
+1(
+1)
+1$
+1+
+0$
+1%
+#13
+0#
+0(
+0+
+1$
+0%

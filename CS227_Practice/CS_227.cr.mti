@@ -1,0 +1,29 @@
+D:/SOFTWARES/ModeSim/Projects/tb_and_gate.v {1 {vlog -work work -stats=none D:/SOFTWARES/ModeSim/Projects/tb_and_gate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_and_gate
+
+Top level modules:
+	tb_and_gate
+
+} {} {}} D:/SOFTWARES/ModeSim/Projects/or_gate.v {1 {vlog -work work -stats=none D:/SOFTWARES/ModeSim/Projects/or_gate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module and_gate
+
+Top level modules:
+	and_gate
+
+} {} {}} D:/SOFTWARES/ModeSim/Projects/tb_or_gate.v {1 {vlog -work work -stats=none D:/SOFTWARES/ModeSim/Projects/tb_or_gate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_and_gate
+
+Top level modules:
+	tb_and_gate
+
+} {} {}} D:/SOFTWARES/ModeSim/Projects/and_gate.v {1 {vlog -work work -stats=none D:/SOFTWARES/ModeSim/Projects/and_gate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module and_gate
+
+Top level modules:
+	and_gate
+
+} {} {}}

@@ -1,0 +1,38 @@
+{D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11/Assgn_1.v} {1 {vlog -work work -stats=none {D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11/Assgn_1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module eight_bit_adder
+-- Compiling module fulladd
+
+Top level modules:
+	eight_bit_adder
+
+} {} {}} {D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11/Assgn_2.v} {1 {vlog -work work -stats=none {D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11/Assgn_2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Assgn_2
+
+Top level modules:
+	Assgn_2
+
+} {} {}} {D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11/tb_Assgn_1.v} {2 {vlog -work work -stats=none {D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11/tb_Assgn_1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_Assgn_1
+** Warning: D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11/tb_Assgn_1.v(25): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	tb_Assgn_1
+
+} {} {}} {D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11/tb_Assgn_2.v} {1 {vlog -work work -stats=none {D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11/tb_Assgn_2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_Assgn_2
+
+Top level modules:
+	tb_Assgn_2
+
+} {} {}} {D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11/Assgn_3.v} {1 {vlog -work work -stats=none {D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11/Assgn_3.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Assgn_3
+
+Top level modules:
+	Assgn_3
+
+} {} {}}

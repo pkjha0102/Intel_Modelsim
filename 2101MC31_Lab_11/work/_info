@@ -1,0 +1,201 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/INTEL/ModeSim
+vAssgn_2
+Z0 !s110 1668245393
+!i10b 1
+!s100 ?>9hIeX6C>gba0eXI3MM^0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IGVS:57lQ^Hd2IjWKgoEg01
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11
+w1667942076
+8D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11/Assgn_2.v
+FD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11/Assgn_2.v
+!i122 31
+L0 1 19
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1668245393.000000
+!s107 D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11/Assgn_2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11/Assgn_2.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@assgn_2
+vAssgn_3
+R0
+!i10b 1
+!s100 1den`kUJmoVe[I72G?@862
+R1
+IK`Y2TJAK7KFXfBfz:I?1T3
+R2
+R3
+w1667945398
+Z8 8D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11/Assgn_3.v
+Z9 FD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11/Assgn_3.v
+!i122 32
+Z10 L0 1 39
+R4
+r1
+!s85 0
+31
+R5
+Z11 !s107 D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11/Assgn_3.v|
+Z12 !s90 -reportprogress|300|-work|work|-stats=none|D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11/Assgn_3.v|
+!i113 1
+R6
+R7
+n@assgn_3
+veight_bit_adder
+R0
+!i10b 1
+!s100 _3o8YM4E@HMQaXc]73@Nb0
+R1
+Ij[DYzQED1`a^;=L`PD>EC0
+R2
+R3
+Z13 w1667940671
+Z14 8D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11/Assgn_1.v
+Z15 FD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11/Assgn_1.v
+!i122 30
+L0 1 16
+R4
+r1
+!s85 0
+31
+R5
+Z16 !s107 D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11/Assgn_1.v|
+Z17 !s90 -reportprogress|300|-work|work|-stats=none|D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11/Assgn_1.v|
+!i113 1
+R6
+R7
+vfulladd
+R0
+!i10b 1
+!s100 J[:EBg69]]nE4J@=F_fPA0
+R1
+I7z^OHR?DKO^FCCT6]V1SN3
+R2
+R3
+R13
+R14
+R15
+!i122 30
+L0 19 9
+R4
+r1
+!s85 0
+31
+R5
+R16
+R17
+!i113 1
+R6
+R7
+vSeven_Seg_Display
+!s110 1667945312
+!i10b 1
+!s100 Y<^XIE6nia_>5PT2eAeZh3
+R1
+IB_S<?lMTc[e;FcJZFo@G@3
+R2
+R3
+w1667945308
+R8
+R9
+!i122 27
+R10
+R4
+r1
+!s85 0
+31
+!s108 1667945312.000000
+R11
+R12
+!i113 1
+R6
+R7
+n@seven_@seg_@display
+vTask_1
+!s110 1667965364
+!i10b 1
+!s100 mE>0@dh6z_^M7n8WGaj:50
+R1
+I@D74[YM`f]lkco><CjKLY2
+R2
+R3
+w1667932968
+8D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/Lab11_Practice/Task_1.v
+FD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/Lab11_Practice/Task_1.v
+!i122 29
+L0 1 30
+R4
+r1
+!s85 0
+31
+!s108 1667965364.000000
+!s107 D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/Lab11_Practice/Task_1.v|
+!s90 -reportprogress|300|-work|work|D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/Lab11_Practice/Task_1.v|
+!i113 1
+R6
+R7
+n@task_1
+vtb_Assgn_1
+R0
+!i10b 1
+!s100 [0BMlaIXNC41X9J[^Wde`1
+R1
+IWlPeGPG>GAiZ8Pi>n=n?71
+R2
+R3
+w1667943643
+8D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11/tb_Assgn_1.v
+FD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11/tb_Assgn_1.v
+!i122 33
+L0 1 33
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11/tb_Assgn_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11/tb_Assgn_1.v|
+!i113 1
+R6
+R7
+ntb_@assgn_1
+vtb_Assgn_2
+R0
+!i10b 1
+!s100 9=5HTKIh7PYO3ji5VS?J:1
+R1
+IPS[d_XoGWcKfW625T0RI32
+R2
+R3
+w1667942248
+8D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11/tb_Assgn_2.v
+FD:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11/tb_Assgn_2.v
+!i122 34
+L0 1 21
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11/tb_Assgn_2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/PK/IIT PATNA/SEM_03/CS227_Digital_Systems/2101MC31_Lab_11/tb_Assgn_2.v|
+!i113 1
+R6
+R7
+ntb_@assgn_2
